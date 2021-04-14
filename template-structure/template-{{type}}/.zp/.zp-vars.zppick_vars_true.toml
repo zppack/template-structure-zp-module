@@ -1,0 +1,6 @@
+# TOML v1.0
+# Variables will ask to input
+
+zpvars = [
+  # add variables config here...
+]

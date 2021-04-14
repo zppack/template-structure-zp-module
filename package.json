@@ -1,0 +1,37 @@
+{
+  "name": "template-structure-zp-module",
+  "version": "1.0.0",
+  "description": "A template to create a zp module for initialization.",
+  "keywords": [
+    "zp-module",
+    "template",
+    "template-structure"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "start": "",
+    "prepare": "",
+    "build": "",
+    "release": "standard-version",
+    "postrelease": "git push && git push origin --tags",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zppack/template-structure-zp-module.git"
+  },
+  "author": "John Chan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zppack/template-structure-zp-module#issues"
+  },
+  "homepage": "https://github.com/zppack/template-structure-zp-module",
+  "dependencies": {},
+  "devDependencies": {
+    "standard-version": "^9.1.1"
+  },
+  "engines": {
+    "node": ">=12",
+    "npm": ">=6"
+  }
+}

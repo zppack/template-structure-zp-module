@@ -1,0 +1,10 @@
+# TOML v1.0
+# Variables will ask to input
+
+zpvars = [
+  { name = 'type', message = "What's your zp module template type? " },
+  { type = 'confirm', name = 'vars', message = 'Do you need `zp-vars` middleware? ', default = true },
+  { type = 'confirm', name = 'pick', message = 'Do you need `zp-pick` middleware? ', default = true },
+]
+
+replaceName = true

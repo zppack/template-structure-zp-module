@@ -1,0 +1,7 @@
+# TOML v1.0
+# pick file rules
+
+# LICENSE file pick according to variable `license`
+#   ignore cases;
+#   support `!` mode;
+license = 'i!'
