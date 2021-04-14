@@ -1,6 +1,6 @@
 {
   "name": "template-structure-zp-module",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A template to create a zp module for initialization.",
   "keywords": [
     "zp-module",
