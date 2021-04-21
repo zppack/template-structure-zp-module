@@ -1,8 +1,8 @@
 {
-  "description": "(Type: template-{{type}})",
+  "description": "(Type: template-{{{type}}})",
   "keywords": [
     "zp-module",
     "template",
-    "template-{{type}}"
+    "template-{{{type}}}"
   ]
 }

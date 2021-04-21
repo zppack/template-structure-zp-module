@@ -1,8 +1,8 @@
-# {{projectName}}
+# {{{projectName}}}
 
-{{description}}
+{{{description}}}
 
-This zp module itself is of type `template-{{type}}`.
+This zp module itself is of type `template-{{{type}}}`.
 
 ## Features
 
@@ -22,7 +22,7 @@ This zp module itself is of type `template-{{type}}`.
 
 ```bash
 .
-├── /template-{{type}}/           # main template directory of zp module
+├── /template-{{{type}}}/           # main template directory of zp module
 │   ├── /.zp/                      # zp module config files directory
 │   │   ├── /.zp-module.toml       # zp module config
 │   │   └── /.zp-vars.toml         # zp module middleware config (optional)
